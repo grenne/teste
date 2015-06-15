@@ -26,7 +26,7 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <version.tomee>7.0.0-SNAPSHOT</version.tomee>
+    <version.tomee>7.0.0-M1</version.tomee>
   </properties>
 
   <build>
@@ -124,7 +124,7 @@
     <dependency>
       <groupId>org.apache.tomee</groupId>
       <artifactId>javaee-api</artifactId>
-      <version>7.0-SNAPSHOT</version>
+      <version>7.0-M1</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
@@ -158,7 +158,7 @@
     <dependency>
       <groupId>org.apache.tomee</groupId>
       <artifactId>openejb-core</artifactId>
-      <version>7.0.0-SNAPSHOT</version>
+      <version>7.0.0-M1</version>
       <scope>test</scope>
     </dependency>
   </dependencies>
