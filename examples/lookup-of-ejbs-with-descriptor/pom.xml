@@ -24,7 +24,7 @@
   <groupId>org.superbiz</groupId>
   <artifactId>lookup-of-ejbs-with-descriptor</artifactId>
   <packaging>jar</packaging>
-  <version>1.1.0-SNAPSHOT</version>
+  <version>7.0.0-SNAPSHOT</version>
   <name>OpenEJB :: Examples :: EJB Lookup with descriptor</name>
   <properties>
     <!--
@@ -38,7 +38,7 @@
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-compiler-plugin</artifactId>
-        <version>3.1</version>
+        <version>3.2</version>
         <configuration>
           <source>1.7</source>
           <target>1.7</target>

@@ -23,7 +23,7 @@
   <groupId>org.superbiz</groupId>
   <artifactId>groovy-cdi</artifactId>
   <packaging>jar</packaging>
-  <version>1.1.0-SNAPSHOT</version>
+  <version>7.0.0-SNAPSHOT</version>
   <name>OpenEJB :: Examples :: Groovy CDI</name>
 
   <properties>
@@ -37,7 +37,7 @@
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-compiler-plugin</artifactId>
-        <version>3.1</version>
+        <version>3.2</version>
         <configuration>
           <compilerId>groovy-eclipse-compiler</compilerId>
           <source>1.7</source>
